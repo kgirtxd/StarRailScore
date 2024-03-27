@@ -2270,10 +2270,10 @@
             "BreakDamageAddedRatioBase": 0.8,
             "CriticalChanceBase": 0,
             "CriticalDamageBase": 0,
-            "DefenceAddedRatio": 0,
-            "DefenceDelta": 0.5,
+            "DefenceAddedRatio": 0.5,
+            "DefenceDelta": 0.1,
             "HPAddedRatio": 0.5,
-            "HPDelta": 0,
+            "HPDelta": 0.1,
             "SpeedDelta": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0.6
@@ -2626,7 +2626,7 @@
         "name": "Acheron",
         "weight": {
             "AttackAddedRatio": 0.8,
-            "AttackDelta": 0.1,
+            "AttackDelta": 0.3,
             "BreakDamageAddedRatioBase": 0,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
