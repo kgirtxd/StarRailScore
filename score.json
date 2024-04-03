@@ -2589,9 +2589,9 @@
             },
             "3": {
                 "AttackAddedRatio": 0.5,
-                "CriticalChanceBase": 0,
+                "CriticalChanceBase": 1,
                 "CriticalDamageBase": 1,
-                "DefenceAddedRatio": 1,
+                "DefenceAddedRatio": 0,
                 "HPAddedRatio": 0,
                 "HealRatioBase": 0,
                 "StatusProbabilityBase": 0
