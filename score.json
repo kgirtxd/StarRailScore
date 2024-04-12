@@ -2627,7 +2627,7 @@
         "weight": {
             "AttackAddedRatio": 0.8,
             "AttackDelta": 0.3,
-            "BreakDamageAddedRatioBase": 0,
+            "BreakDamageAddedRatioBase": 0.3,
             "CriticalChanceBase": 1,
             "CriticalDamageBase": 1,
             "DefenceAddedRatio": 0,
@@ -2636,7 +2636,7 @@
             "HPDelta": 0,
             "SpeedDelta": 0.9,
             "StatusProbabilityBase": 0,
-            "StatusResistanceBase": 0
+            "StatusResistanceBase": 0.3
         }
     },
     "1312": {
