@@ -2399,6 +2399,66 @@
             "StatusResistanceBase": 0.5
         }
     },
+    "1304": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0,
+                "CriticalChanceBase": 0.7,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 1,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 1,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 1,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 1,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 0,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 1,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 0
+            }
+        },
+        "max": 0,
+        "name": "Aventurine",
+        "weight": {
+            "AttackAddedRatio": 0,
+            "AttackDelta": 0,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 0.8,
+            "CriticalDamageBase": 0.8,
+            "DefenceAddedRatio": 1,
+            "DefenceDelta": 0.5,
+            "HPAddedRatio": 0.6,
+            "HPDelta": 0.3,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0.5
+        }
+    },
     "1305": {
         "main": {
             "1": {
