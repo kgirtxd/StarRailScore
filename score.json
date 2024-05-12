@@ -2469,7 +2469,7 @@
             },
             "3": {
                 "AttackAddedRatio": 0.8,
-                "CriticalChanceBase": 0,
+                "CriticalChanceBase": 1,
                 "CriticalDamageBase": 1,
                 "DefenceAddedRatio": 0,
                 "HPAddedRatio": 0,
