@@ -2336,7 +2336,7 @@
             "HPDelta": 0,
             "SpeedDelta": 1,
             "StatusProbabilityBase": 0,
-            "StatusResistanceBase": 0
+            "StatusResistanceBase": 0.3
         }
     },
     "1221": {
