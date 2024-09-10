@@ -2219,6 +2219,306 @@
             "StatusResistanceBase": 0.5
         }
     },
+    "1218": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 0,
+                "CriticalDamageBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 1
+            },
+            "4": {
+                "AttackAddedRatio": 0.5,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 0.5,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 1,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 0.5,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 1
+            }
+        },
+        "max": 0,
+        "name": "Jiaoqiu",
+        "weight": {
+            "AttackAddedRatio": 1,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 0,
+            "CriticalDamageBase": 0,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 1,
+            "StatusResistanceBase": 0
+        }
+    },
+    "1220": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 1
+            },
+            "6": {
+                "AttackAddedRatio": 1,
+                "BreakDamageAddedRatioBase": 0.5,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 0
+            }
+        },
+        "max": 0,
+        "name": "Feixiao",
+        "weight": {
+            "AttackAddedRatio": 0.8,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0.3,
+            "CriticalChanceBase": 1,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0
+        }
+    },
+    "1221": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 0
+            },
+            "5": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 1,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 1,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 1
+            }
+        },
+        "max": 0,
+        "name": "Yunli",
+        "weight": {
+            "AttackAddedRatio": 0.8,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 1,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 0,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0
+        }
+    },
+    "1223": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 0
+            },
+            "5": {
+                "AttackAddedRatio": 0.5,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 1,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 1,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 0
+            }
+        },
+        "max": 0,
+        "name": "Moze",
+        "weight": {
+            "AttackAddedRatio": 0.8,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 1,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 0.8,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0
+        }
+    },
+    "1224": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 1,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 1,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 0
+            }
+        },
+        "max": 0,
+        "name": "March 7th",
+        "weight": {
+            "AttackAddedRatio": 0.8,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 1,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0
+        }
+    },
     "1301": {
         "main": {
             "1": {
@@ -2876,6 +3176,66 @@
             "HPDelta": 0,
             "SpeedDelta": 0.8,
             "StatusProbabilityBase": 0.6,
+            "StatusResistanceBase": 0
+        }
+    },
+    "1314": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 0
+            },
+            "5": {
+                "AttackAddedRatio": 0.5,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 0,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 1,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 1,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 0
+            }
+        },
+        "max": 0,
+        "name": "Jade",
+        "weight": {
+            "AttackAddedRatio": 0.8,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 1,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 0.5,
+            "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0
         }
     },
