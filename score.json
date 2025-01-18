@@ -3539,6 +3539,66 @@
             "StatusResistanceBase": 0.3
         }
     },
+    "1401": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0.5,
+                "CriticalChanceBase": 1,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 1,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 0.8,
+                "DefenceAddedRatio": 0,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "IceAddedRatio": 1,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 0,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0,
+                "HPAddedRatio": 0,
+                "SPRatioBase": 0
+            }
+        },
+        "max": 0,
+        "name": "The Herta",
+        "weight": {
+            "AttackAddedRatio": 0.8,
+            "AttackDelta": 0.3,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 1,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0,
+            "DefenceDelta": 0,
+            "HPAddedRatio": 0,
+            "HPDelta": 0,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0.3
+        }
+    },
     "8001": {
         "main": {
             "1": {
@@ -3897,6 +3957,126 @@
             "SpeedDelta": 1,
             "StatusProbabilityBase": 0,
             "StatusResistanceBase": 0
+        }
+    },
+    "8007": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0,
+                "CriticalChanceBase": 0,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0.5,
+                "HPAddedRatio": 0.5,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 0.3,
+                "HPAddedRatio": 0.3,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 0.5,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0.8,
+                "IceAddedRatio": 1,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 0,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0.5,
+                "HPAddedRatio": 0.5,
+                "SPRatioBase": 1
+            }
+        },
+        "max": 0,
+        "name": "Trailblazer",
+        "weight": {
+            "AttackAddedRatio": 0,
+            "AttackDelta": 0,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 0,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0.5,
+            "DefenceDelta": 0.2,
+            "HPAddedRatio": 0.5,
+            "HPDelta": 0.2,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0.5
+        }
+    },
+    "8008": {
+        "main": {
+            "1": {
+                "HPDelta": 1
+            },
+            "2": {
+                "AttackDelta": 1
+            },
+            "3": {
+                "AttackAddedRatio": 0,
+                "CriticalChanceBase": 0,
+                "CriticalDamageBase": 1,
+                "DefenceAddedRatio": 0.5,
+                "HPAddedRatio": 0.5,
+                "HealRatioBase": 0,
+                "StatusProbabilityBase": 0
+            },
+            "4": {
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 0.3,
+                "HPAddedRatio": 0.3,
+                "SpeedDelta": 1
+            },
+            "5": {
+                "AttackAddedRatio": 0,
+                "DefenceAddedRatio": 0.5,
+                "FireAddedRatio": 0,
+                "HPAddedRatio": 0.8,
+                "IceAddedRatio": 1,
+                "ImaginaryAddedRatio": 0,
+                "PhysicalAddedRatio": 0,
+                "QuantumAddedRatio": 0,
+                "ThunderAddedRatio": 0,
+                "WindAddedRatio": 0
+            },
+            "6": {
+                "AttackAddedRatio": 0,
+                "BreakDamageAddedRatioBase": 0,
+                "DefenceAddedRatio": 0.5,
+                "HPAddedRatio": 0.5,
+                "SPRatioBase": 1
+            }
+        },
+        "max": 0,
+        "name": "Trailblazer",
+        "weight": {
+            "AttackAddedRatio": 0,
+            "AttackDelta": 0,
+            "BreakDamageAddedRatioBase": 0,
+            "CriticalChanceBase": 0,
+            "CriticalDamageBase": 1,
+            "DefenceAddedRatio": 0.5,
+            "DefenceDelta": 0.2,
+            "HPAddedRatio": 0.5,
+            "HPDelta": 0.2,
+            "SpeedDelta": 1,
+            "StatusProbabilityBase": 0,
+            "StatusResistanceBase": 0.5
         }
     }
 }
